@@ -36,6 +36,7 @@ print(listReverse(list))
 =======
 print(listReverse(list));
 
+#not sure this worked
 
 >>>>>>> 2c32e31 (removed inputs)
 =======

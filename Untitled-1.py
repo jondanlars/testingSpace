@@ -19,15 +19,7 @@ def listReverse(list):
     return revList;
 
 #main code
-list = [];
-i = 0;
-element = None;
-
-#Input the list
-print("Enter 5 integers for the list");
-while i < 5:
-    list.append(int(input()));
-    i += 1;
+list = [1,2,4,5,6];
 
 #Print out the results
 print("List is:");
@@ -36,3 +28,5 @@ print("Sum of elements is: " + str(listAdd(list)));
 print("Product of elements is: " + str(listProd(list)));
 print("The list reversed:");
 print(listReverse(list));
+
+

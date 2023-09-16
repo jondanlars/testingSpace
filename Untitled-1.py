@@ -28,6 +28,12 @@ print(list);
 print("Sum of elements is: " + str(listAdd(list)));
 print("Product of elements is: " + str(listProd(list)));
 print("The list reversed:");
+<<<<<<< HEAD
 print(listReverse(list))
 #don't ;dslfkja;lsfj;lasjdf;lasjkdf;asdjkf;asdkjf;kasdjf
 #i just want this to work
+=======
+print(listReverse(list));
+
+
+>>>>>>> 2c32e31 (removed inputs)
